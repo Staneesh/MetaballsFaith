@@ -16,6 +16,7 @@ Rendering metaballs from scratch using C programming language, X and OpenGL.
 - OpenGL extensions listing
 - X11 windows (linux specific)
 - Stream-less file handling
+- Gravity-based dynamics
 
 ---
 
