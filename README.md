@@ -30,9 +30,9 @@ Running the program:
 
 `./main`
 
-## Gallery
-
 ---
+
+## Gallery
 
 ![Image link broken.](https://github.com/Staneesh/MetaballsFaith/blob/master/metaballs.png)
 
